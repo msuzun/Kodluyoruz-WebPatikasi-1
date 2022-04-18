@@ -1,0 +1,20 @@
+body{
+	background-color: bisque;
+}
+
+.heading-div{
+	display: inline-block;
+}
+.heading{
+	color: white;
+	background-color: brown;
+	font-weight: bold;
+	border-radius: 1rem;
+}
+
+.heading-2{
+	color: white;
+	background-color: brown;
+	font-weight: bold;
+	border-radius: 1rem;
+}
